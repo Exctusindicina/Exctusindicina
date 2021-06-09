@@ -1,4 +1,4 @@
-Hi, this Repository Call Exactusindicina.
+Hi, this Repository will be called Exactusindicina.
 Exactus means exact in Latin worrds, and Indicina means information as Latin words.
 Therefore, this repository try to give you exact information.
 
